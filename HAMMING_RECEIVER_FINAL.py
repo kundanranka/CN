@@ -1,17 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Feb 26 11:56:07 2020
-
-@author: 18x42
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Feb 17 09:05:10 2020
-
-@author: 18x42
-"""
-
 import socket
 import math
 

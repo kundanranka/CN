@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Feb 26 10:51:55 2020
-
-@author: 18x42
-"""
-
 import socket
 import math
 

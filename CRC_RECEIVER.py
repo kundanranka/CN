@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Mar  2 09:37:11 2020
-
-@author: 18x42
-"""
-
 def crc(msg,div,code):
     
     msg = msg + code
